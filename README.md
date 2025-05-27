@@ -1,7 +1,7 @@
 # reportesPHP
 
 ## paso 1
-entrar a este enlace e instalar fpdf
+entrar a este enlace e instalar fpdf https://github.com/isaiismael/fpdf-tutoriales
 ![image](https://github.com/user-attachments/assets/48d4c818-2be5-4642-bc78-4c34929fd125)
 ## paso 2
 Descomprimimos el .zip o .rar y movemos la carpeta resultante a nuestro proyecto
