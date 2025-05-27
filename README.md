@@ -9,11 +9,10 @@ Descomprimimos el .zip o .rar y movemos la carpeta resultante a nuestro proyecto
 
 ## paso 3
 Dentro de nuestro proyecto haremos un boton para el reporte y le ponemos un href para usar PruebaV 
-(*en mi caso como estan en diferentes carpetas debo usar fpdf/PruebaV.php para que funcione*)
 ![image](https://github.com/user-attachments/assets/1c7865bd-1550-48ec-9c4e-81aa5dc7b85a)
 
 ## paso 4 
-le ponermos un target blank y luego confirmaremos que este dentro de la carpeta que queremos usar ( o si no no funciona )
+le ponermos un target blank y luego confirmaremos que este dentro de la carpeta que queremos usar 
 ![image](https://github.com/user-attachments/assets/8ae6e88c-1839-45b5-9cb8-04aea10d0a0c)
 
 ## paso 5 
